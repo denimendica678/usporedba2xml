@@ -12,7 +12,7 @@ namespace xml
     {
         static void Main(string[] args)
         {
-            //sanitised xmls:
+            
             string s1 = @"<Books>
                  <book id='20504' image='C01' name='C# in Depth'/>
                  <book id='20505' image='C02' name='ASP.NET'/>
